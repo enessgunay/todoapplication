@@ -19,7 +19,7 @@ TodoItemService.java - Business logic service class
 TodoItem.java - Model class
 The frontend uses Thymeleaf templates under resources/templates to render the views.
 
-##Running the App
+# Running the App
 
 This is a Maven project. To run locally, execute the mvnw spring-boot:run command from the root folder. The app will start on http://localhost:8080.
 
